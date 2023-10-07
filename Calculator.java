@@ -16,12 +16,5 @@ public class Calculator {
 		return result;
 	}
 	
-=======
-	
-	public int multiply(int n1,int n2)
-	{
-		int result = n1 * n2;
-		return result;
-	}
->>>>>>> 6e281c3721f03e9e10867c6b7b3caed025580ccd
+
 	}
